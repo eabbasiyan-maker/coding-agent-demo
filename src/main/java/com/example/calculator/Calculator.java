@@ -4,6 +4,6 @@ package com.example.calculator;
 public class Calculator {
     /** Returns the sum of two numbers. */
     public int add(int first, int second) {
-        return first + second;
+        return first - second;
     }
 }
